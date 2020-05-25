@@ -1,0 +1,351 @@
+Source,Target,Weight
+tamil nadu,andaman & nicobar islands,31
+west bengal,andaman & nicobar islands,15
+andhra pradesh,andaman & nicobar islands,7
+kerala,andaman & nicobar islands,7
+uttar pradesh,andaman & nicobar islands,6
+jharkhand,andaman & nicobar islands,3
+odisha,andaman & nicobar islands,3
+punjab,andaman & nicobar islands,2
+bihar,andaman & nicobar islands,2
+maharashtra,andaman & nicobar islands,2
+tamil nadu,andhra pradesh,1250
+karnataka,andhra pradesh,798
+rajasthan,andhra pradesh,641
+maharashtra,andhra pradesh,611
+gujarat,andhra pradesh,280
+kerala,andhra pradesh,187
+odisha,andhra pradesh,183
+west bengal,andhra pradesh,139
+uttar pradesh,andhra pradesh,135
+bihar,andhra pradesh,79
+assam,arunachal pradesh,284
+bihar,arunachal pradesh,83
+west bengal,arunachal pradesh,49
+uttar pradesh,arunachal pradesh,26
+rajasthan,arunachal pradesh,10
+sikkim,arunachal pradesh,6
+nagaland,arunachal pradesh,6
+manipur,arunachal pradesh,6
+meghalaya,arunachal pradesh,4
+kerala,arunachal pradesh,4
+bihar,assam,771
+west bengal,assam,328
+uttar pradesh,assam,216
+meghalaya,assam,139
+rajasthan,assam,138
+tripura,assam,123
+punjab,assam,39
+nagaland,assam,34
+manipur,assam,28
+jharkhand,assam,28
+uttar pradesh,bihar,448
+jharkhand,bihar,391
+west bengal,bihar,183
+assam,bihar,106
+chhattisgarh,bihar,90
+nagaland,bihar,74
+rajasthan,bihar,60
+gujarat,bihar,55
+uttranchal,bihar,48
+odisha,bihar,42
+punjab,chandigarh,383
+haryana,chandigarh,199
+uttar pradesh,chandigarh,146
+himachal pradesh,chandigarh,90
+nct of delhi,chandigarh,88
+uttranchal,chandigarh,27
+rajasthan,chandigarh,20
+jammu & kashmir,chandigarh,17
+bihar,chandigarh,16
+maharashtra,chandigarh,13
+madhya pradesh,chhattisgarh,235
+uttar pradesh,chhattisgarh,183
+odisha,chhattisgarh,140
+maharashtra,chhattisgarh,112
+jharkhand,chhattisgarh,110
+bihar,chhattisgarh,102
+rajasthan,chhattisgarh,72
+andhra pradesh,chhattisgarh,59
+west bengal,chhattisgarh,46
+gujarat,chhattisgarh,45
+gujarat,dadra & nagar haveli,168
+maharashtra,dadra & nagar haveli,103
+uttar pradesh,dadra & nagar haveli,45
+rajasthan,dadra & nagar haveli,18
+madhya pradesh,dadra & nagar haveli,11
+bihar,dadra & nagar haveli,8
+odisha,dadra & nagar haveli,5
+karnataka,dadra & nagar haveli,5
+daman & diu,dadra & nagar haveli,4
+kerala,dadra & nagar haveli,3
+gujarat,daman & diu,132
+maharashtra,daman & diu,38
+uttar pradesh,daman & diu,19
+rajasthan,daman & diu,14
+chhattisgarh,daman & diu,11
+madhya pradesh,daman & diu,9
+goa,daman & diu,7
+bihar,daman & diu,3
+dadra & nagar haveli,daman & diu,2
+himachal pradesh,daman & diu,1
+karnataka,goa,162
+maharashtra,goa,142
+gujarat,goa,22
+kerala,goa,20
+tamil nadu,goa,15
+uttar pradesh,goa,14
+rajasthan,goa,12
+andhra pradesh,goa,12
+nct of delhi,goa,11
+west bengal,goa,9
+maharashtra,gujarat,5335
+rajasthan,gujarat,3496
+uttar pradesh,gujarat,1883
+madhya pradesh,gujarat,1512
+bihar,gujarat,457
+west bengal,gujarat,218
+andhra pradesh,gujarat,208
+kerala,gujarat,165
+tamil nadu,gujarat,149
+punjab,gujarat,138
+uttar pradesh,haryana,672
+punjab,haryana,529
+nct of delhi,haryana,437
+rajasthan,haryana,371
+bihar,haryana,112
+chandigargh,haryana,77
+uttranchal,haryana,61
+himachal pradesh,haryana,42
+west bengal,haryana,40
+maharashtra,haryana,18
+punjab,himachal pradesh,155
+uttar pradesh,himachal pradesh,47
+haryana,himachal pradesh,33
+nct of delhi,himachal pradesh,24
+uttranchal,himachal pradesh,17
+rajasthan,himachal pradesh,16
+jammu & kashmir,himachal pradesh,13
+chandigargh,himachal pradesh,13
+bihar,himachal pradesh,7
+maharashtra,himachal pradesh,6
+punjab,jammu & kashmir,167
+himachal pradesh,jammu & kashmir,61
+uttar pradesh,jammu & kashmir,53
+nct of delhi,jammu & kashmir,21
+madhya pradesh,jammu & kashmir,20
+bihar,jammu & kashmir,14
+haryana,jammu & kashmir,13
+chhattisgarh,jammu & kashmir,13
+maharashtra,jammu & kashmir,13
+rajasthan,jammu & kashmir,12
+bihar,jharkhand,987
+west bengal,jharkhand,343
+uttar pradesh,jharkhand,113
+odisha,jharkhand,94
+rajasthan,jharkhand,39
+chhattisgarh,jharkhand,34
+gujarat,jharkhand,28
+punjab,jharkhand,25
+andhra pradesh,jharkhand,14
+maharashtra,jharkhand,12
+tamil nadu,karnataka,1988
+andhra pradesh,karnataka,1518
+kerala,karnataka,608
+rajasthan,karnataka,601
+maharashtra,karnataka,581
+gujarat,karnataka,173
+uttar pradesh,karnataka,106
+west bengal,karnataka,86
+nct of delhi,karnataka,64
+bihar,karnataka,55
+tamil nadu,kerala,812
+karnataka,kerala,138
+maharashtra,kerala,84
+andhra pradesh,kerala,28
+gujarat,kerala,27
+rajasthan,kerala,14
+uttar pradesh,kerala,14
+jammu & kashmir,kerala,11
+west bengal,kerala,11
+nct of delhi,kerala,8
+jammu & kashmir,lakshadweep,0
+himachal pradesh,lakshadweep,0
+punjab,lakshadweep,0
+chandigargh,lakshadweep,0
+uttranchal,lakshadweep,0
+haryana,lakshadweep,0
+nct of delhi,lakshadweep,0
+rajasthan,lakshadweep,0
+uttar pradesh,lakshadweep,0
+bihar,lakshadweep,0
+uttar pradesh,madhya pradesh,923
+maharashtra,madhya pradesh,450
+rajasthan,madhya pradesh,392
+chhattisgarh,madhya pradesh,239
+gujarat,madhya pradesh,106
+bihar,madhya pradesh,68
+west bengal,madhya pradesh,68
+punjab,madhya pradesh,64
+nct of delhi,madhya pradesh,55
+andhra pradesh,madhya pradesh,48
+gujarat,maharashtra,1371
+uttar pradesh,maharashtra,1342
+karnataka,maharashtra,827
+rajasthan,maharashtra,793
+madhya pradesh,maharashtra,381
+andhra pradesh,maharashtra,349
+west bengal,maharashtra,219
+tamil nadu,maharashtra,192
+kerala,maharashtra,166
+bihar,maharashtra,137
+bihar,manipur,54
+assam,manipur,33
+tamil nadu,manipur,19
+uttar pradesh,manipur,15
+rajasthan,manipur,11
+mizoram,manipur,5
+west bengal,manipur,5
+tripura,manipur,4
+nagaland,manipur,3
+meghalaya,manipur,3
+assam,meghalaya,167
+bihar,meghalaya,34
+west bengal,meghalaya,22
+manipur,meghalaya,11
+tripura,meghalaya,9
+mizoram,meghalaya,8
+nagaland,meghalaya,5
+uttar pradesh,meghalaya,4
+karnataka,meghalaya,4
+punjab,meghalaya,3
+manipur,mizoram,57
+assam,mizoram,24
+meghalaya,mizoram,20
+west bengal,mizoram,8
+tripura,mizoram,5
+bihar,mizoram,3
+rajasthan,mizoram,2
+arunachal pradesh,mizoram,2
+himachal pradesh,mizoram,1
+uttranchal,mizoram,1
+assam,nagaland,236
+manipur,nagaland,108
+bihar,nagaland,79
+west bengal,nagaland,34
+uttar pradesh,nagaland,31
+rajasthan,nagaland,23
+jharkhand,nagaland,15
+tripura,nagaland,14
+odisha,nagaland,9
+uttranchal,nagaland,5
+uttar pradesh,nct of delhi,1456
+haryana,nct of delhi,622
+punjab,nct of delhi,468
+rajasthan,nct of delhi,291
+bihar,nct of delhi,259
+uttranchal,nct of delhi,216
+west bengal,nct of delhi,171
+maharashtra,nct of delhi,109
+madhya pradesh,nct of delhi,98
+jammu & kashmir,nct of delhi,87
+andhra pradesh,odisha,1109
+bihar,odisha,541
+west bengal,odisha,540
+jharkhand,odisha,369
+chhattisgarh,odisha,313
+uttar pradesh,odisha,195
+rajasthan,odisha,100
+gujarat,odisha,89
+tamil nadu,odisha,83
+maharashtra,odisha,73
+tamil nadu,puducherry,352
+andhra pradesh,puducherry,23
+kerala,puducherry,10
+karnataka,puducherry,4
+rajasthan,puducherry,3
+west bengal,puducherry,2
+gujarat,puducherry,2
+maharashtra,puducherry,2
+jammu & kashmir,puducherry,1
+punjab,puducherry,1
+haryana,punjab,749
+uttar pradesh,punjab,720
+himachal pradesh,punjab,390
+rajasthan,punjab,310
+bihar,punjab,250
+jammu & kashmir,punjab,194
+nct of delhi,punjab,187
+chandigargh,punjab,129
+west bengal,punjab,81
+uttranchal,punjab,75
+uttar pradesh,rajasthan,465
+madhya pradesh,rajasthan,338
+haryana,rajasthan,258
+gujarat,rajasthan,153
+punjab,rajasthan,137
+west bengal,rajasthan,95
+nct of delhi,rajasthan,91
+bihar,rajasthan,78
+maharashtra,rajasthan,69
+uttranchal,rajasthan,29
+west bengal,sikkim,72
+bihar,sikkim,67
+uttar pradesh,sikkim,13
+haryana,sikkim,5
+assam,sikkim,3
+rajasthan,sikkim,2
+jharkhand,sikkim,2
+jammu & kashmir,sikkim,1
+arunachal pradesh,sikkim,1
+meghalaya,sikkim,1
+kerala,tamil nadu,650
+andhra pradesh,tamil nadu,389
+rajasthan,tamil nadu,361
+karnataka,tamil nadu,254
+maharashtra,tamil nadu,134
+puducherry,tamil nadu,125
+gujarat,tamil nadu,89
+west bengal,tamil nadu,31
+uttar pradesh,tamil nadu,25
+nct of delhi,tamil nadu,19
+assam,tripura,28
+mizoram,tripura,17
+bihar,tripura,10
+west bengal,tripura,8
+rajasthan,tripura,5
+uttar pradesh,tripura,4
+jharkhand,tripura,2
+himachal pradesh,tripura,1
+meghalaya,tripura,1
+odisha,tripura,1
+nct of delhi,uttar pradesh,967
+bihar,uttar pradesh,964
+madhya pradesh,uttar pradesh,837
+rajasthan,uttar pradesh,468
+uttranchal,uttar pradesh,430
+west bengal,uttar pradesh,383
+haryana,uttar pradesh,338
+punjab,uttar pradesh,297
+jharkhand,uttar pradesh,151
+assam,uttar pradesh,146
+uttar pradesh,uttarakhand,529
+punjab,uttarakhand,39
+haryana,uttarakhand,36
+nct of delhi,uttarakhand,30
+himachal pradesh,uttarakhand,29
+bihar,uttarakhand,21
+west bengal,uttarakhand,18
+rajasthan,uttarakhand,14
+madhya pradesh,uttarakhand,12
+gujarat,uttarakhand,7
+bihar,west bengal,2334
+jharkhand,west bengal,679
+uttar pradesh,west bengal,674
+rajasthan,west bengal,318
+assam,west bengal,289
+odisha,west bengal,226
+gujarat,west bengal,200
+punjab,west bengal,81
+haryana,west bengal,60
+nct of delhi,west bengal,56

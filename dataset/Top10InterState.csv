@@ -1,0 +1,351 @@
+Source,Target,Weight
+west bengal,andaman & nicobar islands,20998
+tamil nadu,andaman & nicobar islands,18136
+andhra pradesh,andaman & nicobar islands,15681
+jharkhand,andaman & nicobar islands,7612
+kerala,andaman & nicobar islands,4829
+uttar pradesh,andaman & nicobar islands,3114
+chhattisgarh,andaman & nicobar islands,2600
+bihar,andaman & nicobar islands,1779
+odisha,andaman & nicobar islands,1244
+maharashtra,andaman & nicobar islands,1052
+karnataka,andhra pradesh,466951
+tamil nadu,andhra pradesh,266720
+maharashtra,andhra pradesh,263216
+odisha,andhra pradesh,185872
+rajasthan,andhra pradesh,72554
+west bengal,andhra pradesh,50218
+uttar pradesh,andhra pradesh,49889
+bihar,andhra pradesh,48120
+kerala,andhra pradesh,40113
+chhattisgarh,andhra pradesh,28383
+assam,arunachal pradesh,88963
+bihar,arunachal pradesh,18811
+west bengal,arunachal pradesh,6966
+uttar pradesh,arunachal pradesh,6054
+odisha,arunachal pradesh,1613
+rajasthan,arunachal pradesh,1498
+manipur,arunachal pradesh,1465
+kerala,arunachal pradesh,1397
+jharkhand,arunachal pradesh,1308
+nagaland,arunachal pradesh,1218
+bihar,assam,147742
+west bengal,assam,94724
+meghalaya,assam,40755
+tripura,assam,39906
+uttar pradesh,assam,35441
+rajasthan,assam,27778
+nagaland,assam,23707
+arunachal pradesh,assam,19486
+manipur,assam,12203
+jharkhand,assam,11139
+jharkhand,bihar,433696
+uttar pradesh,bihar,319887
+west bengal,bihar,227809
+nct of delhi,bihar,23412
+jammu & kashmir,bihar,15594
+assam,bihar,15221
+maharashtra,bihar,13544
+himachal pradesh,bihar,8883
+rajasthan,bihar,8358
+punjab,bihar,7994
+uttar pradesh,chandigarh,179574
+punjab,chandigarh,148481
+haryana,chandigarh,93037
+himachal pradesh,chandigarh,60254
+bihar,chandigarh,50703
+uttarakhand,chandigarh,31164
+nct of delhi,chandigarh,20889
+rajasthan,chandigarh,9446
+west bengal,chandigarh,6951
+jammu & kashmir,chandigarh,5997
+madhya pradesh,chhattisgarh,276527
+odisha,chhattisgarh,242404
+uttar pradesh,chhattisgarh,168385
+bihar,chhattisgarh,143216
+maharashtra,chhattisgarh,117487
+jharkhand,chhattisgarh,111325
+west bengal,chhattisgarh,53766
+andhra pradesh,chhattisgarh,42362
+rajasthan,chhattisgarh,21188
+punjab,chhattisgarh,17217
+gujarat,dadra & nagar haveli,30177
+uttar pradesh,dadra & nagar haveli,28719
+maharashtra,dadra & nagar haveli,25860
+bihar,dadra & nagar haveli,20848
+rajasthan,dadra & nagar haveli,6830
+madhya pradesh,dadra & nagar haveli,4707
+odisha,dadra & nagar haveli,4339
+west bengal,dadra & nagar haveli,2962
+jharkhand,dadra & nagar haveli,2205
+assam,dadra & nagar haveli,1484
+bihar,daman & diu,28202
+uttar pradesh,daman & diu,27657
+gujarat,daman & diu,23072
+maharashtra,daman & diu,14738
+madhya pradesh,daman & diu,7579
+west bengal,daman & diu,4872
+odisha,daman & diu,4590
+rajasthan,daman & diu,4584
+jharkhand,daman & diu,3386
+assam,daman & diu,1622
+karnataka,goa,116865
+maharashtra,goa,71943
+uttar pradesh,goa,20136
+bihar,goa,8334
+kerala,goa,8218
+andhra pradesh,goa,5652
+west bengal,goa,5342
+rajasthan,goa,4830
+odisha,goa,4389
+tamil nadu,goa,4239
+maharashtra,gujarat,971975
+uttar pradesh,gujarat,929411
+rajasthan,gujarat,747445
+bihar,gujarat,361010
+madhya pradesh,gujarat,274773
+odisha,gujarat,176072
+west bengal,gujarat,89040
+jharkhand,gujarat,49576
+andhra pradesh,gujarat,46784
+kerala,gujarat,44356
+uttar pradesh,haryana,1113535
+rajasthan,haryana,611160
+punjab,haryana,538328
+nct of delhi,haryana,468298
+bihar,haryana,390937
+uttarakhand,haryana,77179
+west bengal,haryana,75893
+chandigarh,haryana,71890
+himachal pradesh,haryana,60586
+madhya pradesh,haryana,56240
+punjab,himachal pradesh,130851
+uttar pradesh,himachal pradesh,66005
+bihar,himachal pradesh,37600
+haryana,himachal pradesh,35750
+uttarakhand,himachal pradesh,22740
+nct of delhi,himachal pradesh,18467
+jammu & kashmir,himachal pradesh,15565
+chandigarh,himachal pradesh,11136
+jharkhand,himachal pradesh,10645
+rajasthan,himachal pradesh,8652
+punjab,jammu & kashmir,43938
+uttar pradesh,jammu & kashmir,20190
+bihar,jammu & kashmir,13200
+west bengal,jammu & kashmir,10164
+chhattisgarh,jammu & kashmir,9949
+himachal pradesh,jammu & kashmir,8609
+madhya pradesh,jammu & kashmir,7599
+rajasthan,jammu & kashmir,6079
+haryana,jammu & kashmir,5987
+nct of delhi,jammu & kashmir,5269
+bihar,jharkhand,1336048
+west bengal,jharkhand,494609
+odisha,jharkhand,126320
+uttar pradesh,jharkhand,107724
+chhattisgarh,jharkhand,42750
+madhya pradesh,jharkhand,10885
+punjab,jharkhand,10387
+rajasthan,jharkhand,10240
+maharashtra,jharkhand,9727
+andhra pradesh,jharkhand,8661
+andhra pradesh,karnataka,890697
+tamil nadu,karnataka,736821
+maharashtra,karnataka,586864
+kerala,karnataka,334181
+rajasthan,karnataka,150359
+uttar pradesh,karnataka,92495
+bihar,karnataka,86083
+west bengal,karnataka,67639
+odisha,karnataka,64032
+gujarat,karnataka,38953
+tamil nadu,kerala,311347
+karnataka,kerala,110833
+maharashtra,kerala,47464
+west bengal,kerala,30470
+puducherry,kerala,21352
+andhra pradesh,kerala,19228
+nct of delhi,kerala,15303
+odisha,kerala,12223
+uttar pradesh,kerala,12203
+gujarat,kerala,10443
+kerala,lakshadweep,4379
+maharashtra,lakshadweep,563
+tamil nadu,lakshadweep,380
+karnataka,lakshadweep,137
+west bengal,lakshadweep,121
+dadra & nagar haveli,lakshadweep,119
+daman & diu,lakshadweep,87
+gujarat,lakshadweep,56
+andhra pradesh,lakshadweep,47
+andaman & nicobar islands,lakshadweep,39
+uttar pradesh,madhya pradesh,1090881
+rajasthan,madhya pradesh,500481
+maharashtra,madhya pradesh,494312
+chhattisgarh,madhya pradesh,167340
+bihar,madhya pradesh,125836
+gujarat,madhya pradesh,88702
+west bengal,madhya pradesh,46207
+punjab,madhya pradesh,31895
+jharkhand,madhya pradesh,30272
+nct of delhi,madhya pradesh,28597
+uttar pradesh,maharashtra,2754706
+karnataka,maharashtra,1399591
+gujarat,maharashtra,983653
+madhya pradesh,maharashtra,824624
+rajasthan,maharashtra,570233
+bihar,maharashtra,568667
+andhra pradesh,maharashtra,437034
+west bengal,maharashtra,309766
+tamil nadu,maharashtra,226029
+kerala,maharashtra,214889
+assam,manipur,7720
+bihar,manipur,2983
+nagaland,manipur,1589
+mizoram,manipur,1041
+uttar pradesh,manipur,853
+meghalaya,manipur,770
+tripura,manipur,766
+rajasthan,manipur,706
+nct of delhi,manipur,652
+west bengal,manipur,638
+assam,meghalaya,61022
+bihar,meghalaya,14112
+manipur,meghalaya,6336
+west bengal,meghalaya,5492
+uttar pradesh,meghalaya,3098
+tripura,meghalaya,2868
+mizoram,meghalaya,2127
+rajasthan,meghalaya,1901
+nagaland,meghalaya,1752
+uttarakhand,meghalaya,1191
+assam,mizoram,15056
+manipur,mizoram,12241
+tripura,mizoram,5606
+meghalaya,mizoram,2378
+bihar,mizoram,1404
+jharkhand,mizoram,1149
+west bengal,mizoram,646
+nagaland,mizoram,541
+uttar pradesh,mizoram,477
+kerala,mizoram,269
+assam,nagaland,51397
+bihar,nagaland,17539
+manipur,nagaland,14093
+uttar pradesh,nagaland,4076
+west bengal,nagaland,3746
+tripura,nagaland,2923
+rajasthan,nagaland,2480
+meghalaya,nagaland,1792
+jharkhand,nagaland,1283
+odisha,nagaland,1236
+uttar pradesh,nct of delhi,2854297
+bihar,nct of delhi,1106629
+haryana,nct of delhi,666331
+rajasthan,nct of delhi,315238
+uttarakhand,nct of delhi,294704
+punjab,nct of delhi,247966
+west bengal,nct of delhi,182356
+madhya pradesh,nct of delhi,134867
+himachal pradesh,nct of delhi,79272
+jharkhand,nct of delhi,69196
+jharkhand,odisha,167377
+west bengal,odisha,164699
+chhattisgarh,odisha,129371
+andhra pradesh,odisha,122491
+bihar,odisha,119231
+uttar pradesh,odisha,33063
+gujarat,odisha,24420
+maharashtra,odisha,14902
+madhya pradesh,odisha,12725
+rajasthan,odisha,12203
+tamil nadu,puducherry,270900
+andhra pradesh,puducherry,32330
+kerala,puducherry,21345
+karnataka,puducherry,2978
+gujarat,puducherry,2102
+maharashtra,puducherry,2037
+odisha,puducherry,1753
+rajasthan,puducherry,1267
+west bengal,puducherry,1202
+uttar pradesh,puducherry,907
+uttar pradesh,punjab,649557
+haryana,punjab,545584
+bihar,punjab,352537
+himachal pradesh,punjab,214213
+rajasthan,punjab,202166
+chandigarh,punjab,149591
+jammu & kashmir,punjab,70299
+uttarakhand,punjab,55392
+west bengal,punjab,46958
+nct of delhi,punjab,45310
+uttar pradesh,rajasthan,585982
+madhya pradesh,rajasthan,554058
+haryana,rajasthan,533963
+punjab,rajasthan,213308
+gujarat,rajasthan,200767
+bihar,rajasthan,134402
+nct of delhi,rajasthan,83134
+maharashtra,rajasthan,73366
+west bengal,rajasthan,67695
+uttarakhand,rajasthan,23233
+west bengal,sikkim,33158
+bihar,sikkim,13282
+assam,sikkim,2621
+uttar pradesh,sikkim,2280
+jharkhand,sikkim,1267
+jammu & kashmir,sikkim,974
+manipur,sikkim,732
+rajasthan,sikkim,675
+haryana,sikkim,661
+odisha,sikkim,602
+kerala,tamil nadu,447701
+karnataka,tamil nadu,289302
+andhra pradesh,tamil nadu,286427
+puducherry,tamil nadu,252312
+rajasthan,tamil nadu,88474
+maharashtra,tamil nadu,82197
+bihar,tamil nadu,29277
+west bengal,tamil nadu,28829
+uttar pradesh,tamil nadu,27985
+odisha,tamil nadu,22863
+assam,tripura,29423
+mizoram,tripura,18411
+jharkhand,tripura,14203
+bihar,tripura,12063
+west bengal,tripura,5349
+meghalaya,tripura,1309
+nagaland,tripura,751
+manipur,tripura,613
+rajasthan,tripura,495
+tamil nadu,tripura,407
+bihar,uttar pradesh,1072739
+madhya pradesh,uttar pradesh,668537
+nct of delhi,uttar pradesh,566210
+uttarakhand,uttar pradesh,393540
+rajasthan,uttar pradesh,284056
+west bengal,uttar pradesh,234042
+haryana,uttar pradesh,230740
+punjab,uttar pradesh,142235
+jharkhand,uttar pradesh,110358
+maharashtra,uttar pradesh,88310
+uttar pradesh,uttarakhand,890663
+bihar,uttarakhand,76116
+nct of delhi,uttarakhand,52002
+punjab,uttarakhand,45667
+haryana,uttarakhand,33899
+west bengal,uttarakhand,26298
+himachal pradesh,uttarakhand,24089
+rajasthan,uttarakhand,18410
+madhya pradesh,uttarakhand,13268
+maharashtra,uttarakhand,13114
+bihar,west bengal,1103757
+jharkhand,west bengal,459436
+uttar pradesh,west bengal,238819
+assam,west bengal,166400
+odisha,west bengal,142179
+rajasthan,west bengal,57668
+maharashtra,west bengal,27648
+tripura,west bengal,20497
+punjab,west bengal,18154
+andhra pradesh,west bengal,16707
